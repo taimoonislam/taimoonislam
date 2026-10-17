@@ -74,21 +74,6 @@ I'm a Computer Science and Engineering student at IUBAT, Bangladesh, interested 
 
 ---
 
-## 🚀 Featured Projects
-
-### 🎓 University Campus Management System
-
-A university-focused software project designed to organize campus-related information and support academic activities.
-
-### 📝 Quiz and Exam System
-
-An MVC-based application designed to support quiz management, examinations, and result processing.
-
-### 🏢 Sales Management System
-
-A business-oriented application designed to support sales operations and improve digital record management.
-
----
 
 ## 🔬 Research Interests
 
